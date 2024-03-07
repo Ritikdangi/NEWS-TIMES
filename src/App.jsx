@@ -7,11 +7,11 @@ function App() {
   const [count, setCount] = useState(0);
 
   return (
-    <>
-      <h1 className="text-3xl font-bold underline">
+    <div className="w-full h-[100vh] flex items-center justify-center bg-gray-400">
+      <h1 className="text-3xl text-center  font-bold underline">
         React Tailwind Starter Pack Is Working
       </h1>
-    </>
+    </div>
   );
 }
 
