@@ -9,6 +9,10 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdimamhosen/react-tailwind-starter--pack"
+  },
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
